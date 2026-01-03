@@ -1,0 +1,5 @@
+{
+  "name": "ComicDoodle AI",
+  "description": "A fun and creative drawing app that lets you create visual comics by drawing, enhanced with Gemini 2.5 Flash Image for AI-powered editing and generation.",
+  "requestFramePermissions": []
+}
